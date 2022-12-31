@@ -6,3 +6,10 @@ p
 h2{
     text-align: center;
 }
+
+element.style {
+}
+img {
+    width: 500px;
+    height: 500px;
+}
